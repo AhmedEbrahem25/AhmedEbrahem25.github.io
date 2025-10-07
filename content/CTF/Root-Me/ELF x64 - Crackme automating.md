@@ -100,9 +100,9 @@ The extracted `flag` binary employed the same obfuscation algorithm. Analysis in
 IDA was used to identify the necessary file offsets for the `check` function within this new file:
 
 - **Function Start**: `0x00000914`
-![Payload function start address in IDA Pro](../../Attachments/Screenshot%202025-10-07%20093922.png)
+>![Payload function start address in IDA Pro](../../Attachments/Screenshot%202025-10-07%20093922.png)
 - **Function End**: `0x00008633`
-![Payload function end address in IDA Pro](../../Attachments/Screenshot%202025-10-07%20094329.png)
+>![Payload function end address in IDA Pro](../../Attachments/Screenshot%202025-10-07%20094329.png)
 
 ### 2. Final Flag Extraction Script
 
