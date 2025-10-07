@@ -18,8 +18,8 @@
 
 > **Conclusion**: The solution requires programmatically disassembling the code and extracting these values and keys to automate the decryption process.
 
-![Obfuscation pattern in IDA Pro](Attachments/Screenshot%202025-10-07%20103422.png)
-![Dynamic analysis in GDB](Attachments/Screenshot%202025-10-07%20103245.png)### 3. Dynamic Analysis and Indicator Extraction
+![Obfuscation pattern in IDA Pro](Attachments\Screenshot%202025-10-07%20103422.png)
+![Dynamic analysis in GDB](../../Attachments/Screenshot%202025-10-07%20103245.png)### 3. Dynamic Analysis and Indicator Extraction
 
 >To automate the disassembly, it was crucial to convert the function's virtual address (VA) to its file offset. **GDB** with **pwndbg** was used for this task.
 1. **Determine the Base Address** of the program in memory:
