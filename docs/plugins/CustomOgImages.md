@@ -358,3 +358,5 @@ export const og: SocialImageOptions["Component"] = (
   )
 }
 ```
+}
+```
