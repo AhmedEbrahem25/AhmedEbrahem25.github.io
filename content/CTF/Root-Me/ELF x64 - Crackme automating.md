@@ -18,7 +18,7 @@
 
 > **Conclusion**: The solution requires programmatically disassembling the code and extracting these values and keys to automate the decryption process.
 
-![Obfuscation pattern in IDA Pro](Attachments\Screenshot%202025-10-07%20103422.png)
+![Obfuscation pattern in IDA Pro](../../Attachments/Screenshot%202025-10-07%20103422.png)
 ![Dynamic analysis in GDB](../../Attachments/Screenshot%202025-10-07%20103245.png)### 3. Dynamic Analysis and Indicator Extraction
 
 >To automate the disassembly, it was crucial to convert the function's virtual address (VA) to its file offset. **GDB** with **pwndbg** was used for this task.
@@ -90,7 +90,7 @@ with open('flag', 'wb') as f:
 
 >Executing the script successfully extracted a new file named `flag`. Initial analysis identified it as a Windows Portable Executable (PE) file.
 
-![File type identification of the payload](Attachments/Screenshot%202025-10-06%20155401%201.png)
+![File type identification of the payload](../../Attachments/Screenshot%202025-10-06%20155401%201.png)
 ### Stage 2: Analyzing the Payload (`flag`)
 
 #### 1. Payload Analysis and Pattern Identification
@@ -100,9 +100,9 @@ The extracted `flag` binary employed the same obfuscation algorithm. Analysis in
 IDA was used to identify the necessary file offsets for the `check` function within this new file:
 
 - **Function Start**: `0x00000914`
-    ![Payload function start address in IDA Pro](Attachments/Screenshot%202025-10-07%20093922.png)
+    ![Payload function start address in IDA Pro](../../Attachments/Screenshot%202025-10-07%20093922.png)
 - **Function End**: `0x00008633`
-    ![Payload function end address in IDA Pro](Attachments/Screenshot%202025-10-07%20094329.png)
+    ![Payload function end address in IDA Pro](../../Attachments/Screenshot%202025-10-07%20094329.png)
 
 ### 2. Final Flag Extraction Script
 
@@ -151,4 +151,4 @@ Running the second script successfully decrypted the final data and printed the 
 
 > **The Flag**: `I_reverse_all_this_and_all_I_got_is_this_flag`
 
-![Final flag extraction in terminal](Attachments/Screenshot%202025-10-07%20094604.png)
+![Final flag extraction in terminal](../../Attachments/Screenshot%202025-10-07%20094604.png)
