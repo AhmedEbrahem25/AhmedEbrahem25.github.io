@@ -1,5 +1,6 @@
 ## Summary
- >This report provides an in-depth technical analysis of a multi-stage reverse engineering challenge (`ELF x64 - Crackme automating`). The challenge consists of two executable files: the first (`ch30.bin`) acts as a dropper, responsible for decrypting and constructing the second-stage payload (`flag`). Both binaries employ an advanced anti-analysis technique 
+ >This report provides an in-depth technical analysis of a multi-stage reverse engineering challenge 
+ >(`ELF x64 - Crackme automating`). The challenge consists of two executable files: the first (`ch30.bin`) acts as a dropper, responsible for decrypting and constructing the second-stage payload (`flag`). Both binaries employ an advanced anti-analysis technique 
  >(a "Decompiler Bomb") to crash static analysis tools like IDA Pro. This technique was overcome by identifying the underlying algorithmic pattern and developing custom Python scripts to automate the data extraction and decryption process, ultimately leading to the successful recovery of the flag.
 ### Stage 1: Analyzing the Dropper (`ch30.bin`)
 ### 1. Initial Triage
