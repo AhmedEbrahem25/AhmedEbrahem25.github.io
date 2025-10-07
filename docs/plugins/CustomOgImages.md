@@ -332,7 +332,8 @@ export const og: SocialImageOptions["Component"] = (
             }}
           >
             {Li.map((item, index) => {
-              if
+              if (item) {
+                return <li key={index}>{item}</li>
               }
             })}
           </ul>
@@ -358,5 +359,4 @@ export const og: SocialImageOptions["Component"] = (
   )
 }
 ```
-}
-```
+{% endraw %}
