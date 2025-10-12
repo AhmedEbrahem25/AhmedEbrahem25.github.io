@@ -10,6 +10,6 @@
 
 ### 👋 About Me
 
-I am a third-year Artificial Intelligence student and a dedicated cybersecurity researcher with a passion for malware analysis, reverse engineering, and bug bounty hunting. [cite: 2, 9, 10] My expertise lies in penetration testing and identifying critical vulnerabilities, and I am actively exploring the powerful intersection of AI and offensive security. 
+I am a third-year Artificial Intelligence student and a dedicated cybersecurity researcher with a passion for malware analysis, reverse engineering, and bug bounty hunting. My expertise lies in penetration testing and identifying critical vulnerabilities, and I am actively exploring the powerful intersection of AI and offensive security. 
 
 ---
