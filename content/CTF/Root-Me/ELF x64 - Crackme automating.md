@@ -48,7 +48,7 @@
 ### Automating Decryption and Payload Extraction
 
 >A Python script (`solve_cha30.py`) was developed using the `pwn` library to disassemble the function from the correct file offset and extract the data.
-```
+```python
 #solve_cha30.py
 from pwn import *
 from base64 import *
@@ -108,7 +108,7 @@ IDA was used to identify the necessary file offsets for the `check` function wit
 
 The initial script was adapted to match the new offsets and patterns.
 
-```
+```python
 # solve_flag.py
 from pwn import *
 from base64 import *
