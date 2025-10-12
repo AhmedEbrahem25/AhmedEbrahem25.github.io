@@ -21,6 +21,6 @@ Here are the main areas you can explore:
 
 ### About Me
 
-[cite_start]I'm a third-year AI student, cybersecurity researcher, and bug bounty hunter. [cite: 2, 9] [cite_start]I spend my time reverse-engineering malware, hunting for vulnerabilities on platforms like HackerOne, and building secure systems. [cite: 10, 15, 21] This space is where I document it all.
+I'm a third-year AI student, cybersecurity researcher, and bug bounty hunter.  I spend my time reverse-engineering malware, hunting for vulnerabilities on platforms like HackerOne, and building secure systems. [cite: 10, 15, 21] This space is where I document it all.
 
-[cite_start]Feel free to connect with me on **[LinkedIn] [cite: 7][cite_start]** or check out my projects on **[GitHub] [cite: 6]**.
+Feel free to connect with me on **[LinkedIn] ** or check out my projects on **[GitHub] **.
