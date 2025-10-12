@@ -1,4 +1,4 @@
-# Ahmed Abdelzaher [cite: 1]
+# Ahmed Abdelzaher 
 
 <p align="left">
   <a href="https://github.com/AhmedEbrahem25" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile"></a>
