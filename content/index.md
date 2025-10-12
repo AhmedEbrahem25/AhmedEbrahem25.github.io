@@ -21,6 +21,9 @@ Here are the main areas you can explore:
 
 ### About Me
 
-I'm a third-year AI student, cybersecurity researcher, and bug bounty hunter.  I spend my time reverse-engineering malware, hunting for vulnerabilities on platforms like HackerOne, and building secure systems. [cite: 10, 15, 21] This space is where I document it all.
+I'm a third-year AI student, cybersecurity researcher, and bug bounty hunter.  I spend my time reverse-engineering malware, hunting for vulnerabilities on platforms like HackerOne, and building secure systems. This space is where I document it all.
 
-Feel free to connect with me on **[LinkedIn] ** or check out my projects on **[GitHub] **.
+**Connect with me:**
+- check out my projects on [GitHub](https://github.com/AhmedEbrahem25)
+- Feel free to connect with me on[LinkedIn](https://www.linkedin.com/in/ahmed-ibrahim-ai-cybersecurity)
+
