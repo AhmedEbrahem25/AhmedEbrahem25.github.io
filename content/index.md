@@ -11,12 +11,11 @@ Here, you'll find my raw, in-progress notes as I work through complex topics. Th
 
 ## Start Exploring
 
-Here are the main areas you can explore:
+Explore the main areas directly:
 
-- **[[Practical Malware Analysis (PMA)]]**: My chapter-by-chapter notes, lab solutions, and modern takes on the concepts from the PMA book.
-- **[[CTF Write-ups]]**: Detailed walkthroughs and solutions for various Capture The Flag challenges, focusing on reverse engineering and exploitation.
-- **[[AI & Security Research]]**: Explorations and project documentation where I apply machine learning techniques to solve cybersecurity problems.
-
+- **[[Practical Malware Analysis (PMA)]](/content/Practical%20Malware%20Analysis%20(PMA)/)**: My chapter-by-chapter notes, lab solutions, and modern takes on the concepts from the PMA book.
+- **[[CTF Write-ups]](/content/CTF/)**: Detailed walkthroughs and solutions for various Capture The Flag challenges, focusing on reverse engineering and exploitation.
+- **[[AI]](/content/AI/)**: Explorations and project documentation where I apply machine learning techniques to solve cybersecurity problems.
 ---
 
 ### About Me
